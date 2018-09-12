@@ -1,0 +1,14 @@
+C:\Users\Navitas\Source\Repos\ExFinWebDemo\StarshipCalculator\StarshipCalculator\bin\Debug\StarshipCalculator.exe.config
+C:\Users\Navitas\Source\Repos\ExFinWebDemo\StarshipCalculator\StarshipCalculator\bin\Debug\StarshipCalculator.exe
+C:\Users\Navitas\Source\Repos\ExFinWebDemo\StarshipCalculator\StarshipCalculator\bin\Debug\StarshipCalculator.pdb
+C:\Users\Navitas\Source\Repos\ExFinWebDemo\StarshipCalculator\StarshipCalculator\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Navitas\Source\Repos\ExFinWebDemo\StarshipCalculator\StarshipCalculator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Navitas\Source\Repos\ExFinWebDemo\StarshipCalculator\StarshipCalculator\bin\Debug\SharpTrooper.dll
+C:\Users\Navitas\Source\Repos\ExFinWebDemo\StarshipCalculator\StarshipCalculator\bin\Debug\SharpTrooper.pdb
+C:\Users\Navitas\Source\Repos\ExFinWebDemo\StarshipCalculator\StarshipCalculator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Navitas\Source\Repos\ExFinWebDemo\StarshipCalculator\StarshipCalculator\obj\Debug\StarshipCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Navitas\Source\Repos\ExFinWebDemo\StarshipCalculator\StarshipCalculator\obj\Debug\StarshipCalculator.exe
+C:\Users\Navitas\Source\Repos\ExFinWebDemo\StarshipCalculator\StarshipCalculator\obj\Debug\StarshipCalculator.pdb
+C:\Users\Navitas\Source\Repos\ExFinWebDemo\Kneat Software Test COD\StarshipCalculator\StarshipCalculator\bin\Debug\StarshipCalculator.exe.config
+C:\Users\Navitas\Source\Repos\ExFinWebDemo\Kneat Software Test COD\StarshipCalculator\StarshipCalculator\obj\Debug\StarshipCalculator.exe
+C:\Users\Navitas\Source\Repos\ExFinWebDemo\Kneat Software Test COD\StarshipCalculator\StarshipCalculator\obj\Debug\StarshipCalculator.pdb
